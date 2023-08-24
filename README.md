@@ -63,7 +63,7 @@ Content-Type: application/json
 ```json
 {
   "access_token": "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTI4NzEwMzAsImd1aWQiOiI3ZTQ4NDQ5Ny1hNzk4LTQ2NTUtYjVkOS01NmIxNmU5OTBlMTIiLCJzZXNzaW9uX2lkIjoiZmNiYTIwY2ItMjJiZC00NTY5LWFlZjgtYjJlZmU3NzEzZDY0In0.gKRSeT7--TcDoPT04yjJl8MawPwjXZ_9w9ZqfuW9fmeswcEm24-Hg05yUn6fVOH57upPjOO9CGEjihprGhBUXw",
-  "refresh_token": "UMxZHuVoTnaRr5dFzPm77A=="
+  "refresh_token": "xQQrtMGcQzyIL9JCnb6X6w=="
 }
 ```
 
