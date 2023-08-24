@@ -52,6 +52,11 @@ GET http://localhost:8080/auth?guid=7e484497-a798-4655-b5d9-56b16e990e12
 #### Запрос
 ```http request
 POST http://localhost:8080/fcba20cb-22bd-4569-aef8-b2efe7713d64/refresh
+Content-Type: application/json
+
+{
+  "refresh_token": "UMxZHuVoTnaRr5dFzPm77A=="
+}
 ```
 
 #### Ответ
